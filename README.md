@@ -1,7 +1,7 @@
 ### Olá! 👋 Meu nome é João!
 
 - 🔭 Atualmente estou estudando analise e desenvolvimento de sistemas
-- 🌱 Estou estudando: HTML, JS e arduino.
+- 🌱 Estou estudando: TS, JS, NodeJS, Docker, LoraWan, IoT.
 -->
 
  <div>
