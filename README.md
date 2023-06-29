@@ -1,6 +1,6 @@
 ## Hello World 👋 I'm João 🇧🇷
 
-Full-stack developer (in progress...)
+Developer (in progress...)
 
  🎓 Studying 
   * Systems analysis and development in [SPTech](https://www.sptech.school/)
@@ -21,7 +21,7 @@ Full-stack developer (in progress...)
 
 ## 📈 Objectives
 
-* Learn fluency english, and maximize my skills on stack.js.
+* Learn fluency english, and maximize my skills on java.
 ## Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-19036616b/ "linkedin")[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http.joawn/ "my blog")
